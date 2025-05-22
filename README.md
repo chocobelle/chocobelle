@@ -1,17 +1,16 @@
-<img src="https://i.pinimg.com/736x/8d/b4/c3/8db4c3efb1f49589ae98c29c65bfb2fe.jpg" alt="Welcome Banner" style="width:100%;"/>
+<img src="https://i.pinimg.com/736x/cb/f1/c4/cbf1c41731d418489927e95074ddfc3a.jpg" alt="Welcome Banner" style="width:100%;"/>
 
-## 👩‍💻 About Me
-* 🌸 You can call me Zeni  
-* 📍 Based somewhere in the UK  
-* 💼 Frontend developer working in tech  
-* 🎓 Studying an [Access to HE Diploma in Computing](https://www.learndirect.com/) online  
-* 🧑‍🎓 Entered tech through a hands-on apprenticeship — learning by doing  
-* 📚 Currently working on Salesforce certifications 
-* 🗣 Learning [Korean](https://en.wikipedia.org/wiki/Korean_language) and exploring [Mandarin](https://en.wikipedia.org/wiki/Mandarin_Chinese)  
-* 🌐 Enjoy crafting web experiences and bringing ideas to life in the browser  
-* 🧠 Always curious, always learning — especially when it comes to tech and languages  
-  
-## ⚙️ Tech Skills
+## ✦ About Me
+✧ You can call me Izzy  
+✧ Based somewhere in the UK  
+✧ Frontend developer working in tech  
+✧ Studying an [Access to HE Diploma in Computing](https://www.learndirect.com/) online  
+✧ Currently working on Salesforce certifications
+✧ Learning [Korean](https://en.wikipedia.org/wiki/Korean_language) and exploring [Mandarin](https://en.wikipedia.org/wiki/Mandarin_Chinese)  
+✧ Enjoy crafting web experiences and bringing ideas to life in the browser  
+✧ Always curious, always learning — especially when it comes to tech and languages  
+
+## ✦ Tech Skills
 ### Most Experienced In
 <table>
   <tr>
