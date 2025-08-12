@@ -1,85 +1,22 @@
-<img src="https://i.pinimg.com/736x/cb/f1/c4/cbf1c41731d418489927e95074ddfc3a.jpg" alt="Welcome Banner" style="width:100%;"/>
+<img src="https://i.pinimg.com/1200x/73/0a/d9/730ad94b1a3501acc013e58afbf8dcdd.jpg" alt="Welcome Banner" style="width:100%;"/>
 
-## ✦ About Me
-✧ You can call me Izzy  
-✧ Based somewhere in the UK  
-✧ Frontend developer working in tech  
-✧ Studying an [Access to HE Diploma in Computing](https://www.learndirect.com/) online  
-✧ Currently working on Salesforce certifications
-✧ Learning [Korean](https://en.wikipedia.org/wiki/Korean_language) and exploring [Mandarin](https://en.wikipedia.org/wiki/Mandarin_Chinese)  
-✧ Enjoy crafting web experiences and bringing ideas to life in the browser  
-✧ Always curious, always learning — especially when it comes to tech and languages  
+안녕하세요. Hello.
 
-## ✦ Tech Skills
-### Most Experienced In
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="Npm" />
-      <br>Npm
-    </td>
-  </tr>
-</table>
+Nicknamed "Zeni", I'm a solo developer building **Bokbi** — an upcoming cross-platform reading tracker for fandom readers, web fiction fans, and anyone juggling stories across multiple sites.
 
-### Currently Learning
+Tech I use daily:
+- **Frontend:** React, Next.js  
+- **Languages:** JavaScript, TypeScript  
+- **Styling:** SCSS, TailwindCSS  
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.Js" />
-      <br>Next.Js
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi" />
-      <br>Raspberry Pi
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48" alt="Salesforce" />
-      <br>Salesforce
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-  </tr>
-</table>
+I work mostly in private repos, pushing quietly until something is ready to ship.
+
+No roadmap promises — I just build, test, and release when it’s good enough to use. Firm believer of SLC > MVP
+
+Fun-fact:
+- Always learning and improving — suggestions and pointers are always welcome.
+- I like Great Dane dogs and black rabbits.
+
+----
+
+**Blog:** [Zeni's Dev Blog](https://zenioynx.tumblr.com/)
